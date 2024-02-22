@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "The art of war",
+    "author": "author1",
+    "ISBN": "978-3-13-601",
+    "review": [
+      {
+        "userId": "1",
+        "comment": "Wow"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Rich dad poor dad",
+    "author": "author2",
+    "ISBN": "978-3-13-602",
+    "review": [
+      {},
+      {
+        "userId": "1",
+        "comment": "Awesome!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The laws of human nature",
+    "author": "author3",
+    "ISBN": "978-3-13-502",
+    "review": [
+      {
+        "userId": "2",
+        "comment": "What a book!"
+      },
+      {}
+    ]
+  }
+]
